@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Image/account.png</file>
+        <file>Image/SplashScreen.png</file>
+        <file>Image/logo.png</file>
+        <file>Image/logoColorful.png</file>
+        <file>Image/favorite.png</file>
+        <file>Image/timing.png</file>
+        <file>Image/auto.png</file>
+        <file>Image/adjust.png</file>
+        <file>Image/autoA.png</file>
+        <file>Image/password.png</file>
+        <file>Image/phone.png</file>
+        <file>Image/delete.png</file>
+        <file>Image/no.png</file>
+        <file>Image/yes.png</file>
+        <file>Image/delete2.png</file>
+    </qresource>
+</RCC>

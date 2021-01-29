@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>SplashScreen.qml</file>
+        <file>LoginPage.qml</file>
+        <file>MainPage.qml</file>
+        <file>AdjustPage.qml</file>
+        <file>FavoritePage.qml</file>
+        <file>AddFavorite.qml</file>
+        <file>main.qml</file>
+        <file>MainTitle.qml</file>
+        <file>TimerPage.qml</file>
+        <file>AddTimer.qml</file>
+    </qresource>
+</RCC>
